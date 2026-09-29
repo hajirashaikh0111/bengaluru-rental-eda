@@ -1,8 +1,17 @@
 # Bengaluru Rental Market - EDA & KPI Analysis
-### Data Analyst Project by Hajira Shaikh | Bengaluru
+### Data Analyst Project by Hajira Shaikh | Mavalli, Bengaluru
+
+[![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20Matplotlib-blue)]()
+[![Live Project](https://img.shields.io/badge/Live-GitHub-green)]()
+[![Location](https://img.shields.io/badge/Location-Bengaluru-orange)]()
+
+**Author:** Hajira Shaikh - Aspiring Data Analyst  
+**GitHub:** [github.com/hajirashaikh0111](https://github.com/hajirashaikh0111)  
+**Project Link:** [github.com/hajirashaikh0111/bengaluru-rental-eda](https://github.com/hajirashaikh0111/bengaluru-rental-eda)  
+**LinkedIn:** [linkedin.com/in/hajira-shaikh-666370251](https://linkedin.com/in/hajira-shaikh-666370251)  
 
 ## Project Overview
-Analyzed 1200+ Bengaluru rental records to identify trends, check data quality, and calculate business KPIs using Python.
+Analyzed 1200+ Bengaluru rental records to identify trends, check data quality, and calculate business KPIs using Python. This project demonstrates Data Profiling, KPI Validation & Data Quality Analysis - core skills for NTT DATA Req ID 390777.
 
 ## Skills Used
 - Python: Pandas, NumPy, Matplotlib
@@ -28,10 +37,17 @@ Focus on 2BHK in HSR/Whitefield - high demand, moderate rent, best ROI.
 pip install pandas matplotlib
 python analysis.py
 
+## Let's Connect
+I am open to Data Analyst roles in Bengaluru (Remote/Hybrid) - NTT DATA, WFH opportunities.
+
+- **GitHub:** https://github.com/hajirashaikh0111
+- **LinkedIn:** https://linkedin.com/in/hajira-shaikh-666370251
+- **Email:** hajirashaikh0111@gmail.com
+- **Location:** Mavalli, Bengaluru
+
+⭐ If you like this project, please star the repo!
+
 ## Author
 Hajira Shaikh - Aspiring Data Analyst
 BSc Physics, Maths & CS (2024) - Bishop Cotton's Women's Christian College, Bengaluru
 EY & Microsoft AI Skills Passport Certified
-LinkedIn: linkedin.com/in/hajira-shaikh-666370251
-Email: hajirashaikh0111@gmail.com
-Open to Data Analyst roles in Bengaluru
